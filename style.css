@@ -1,0 +1,17 @@
+.form-control{
+  display: inline-block;
+  width: 250px;
+  margin-top: 50px;
+}
+
+.jumbotron{
+  display: inline-block;
+  margin-left: 220px;
+  background-color: #d1d2bf;
+
+
+}
+
+.body-group{
+  background-color: #f0e9ee;
+}
